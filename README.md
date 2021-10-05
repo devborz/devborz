@@ -16,6 +16,6 @@ I'm Usman Turkaev, iOS-developer
 #### In progress👨🏻‍💻
 - [Kinopoisk app clone](https://github.com/devborz/Kinopoisk-clone)
 - [Image picker](https://github.com/devborz/ImagePicker)
-#### Completed🏁
 - [Messenger](https://github.com/devborz/Messenger)
+#### Completed🏁
 - [TOTP-codes generator](https://github.com/devborz/KeyStore)
