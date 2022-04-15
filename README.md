@@ -2,7 +2,7 @@
 
 I'm Usman, iOS-developer
 
-#### Contacts
+<!-- #### Contacts
 - Telegram - [@usmaniiii](https://t.me/usmaniiii)
 - Instagram - [@devborz](https://instagram.com/devborz)
 
@@ -17,3 +17,4 @@ I'm Usman, iOS-developer
 - [Messenger](https://github.com/devborz/Messenger)
 #### Completed🏁
 - [TOTP-codes generator](https://github.com/devborz/KeyStore)
+ -->
